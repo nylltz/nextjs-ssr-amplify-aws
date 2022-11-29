@@ -7,6 +7,6 @@ module.exports = {
     webpack5: true
   },
     images: {
-    domains: ['main.d1mwm6dlpr24s3.amplifyapp.com'],
+    domains: ['main.dpnzmme2ihbms.amplifyapp.com'],
   },
 }
